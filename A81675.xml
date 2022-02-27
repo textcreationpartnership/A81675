@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Samsons fall, presented to the house 1642</title>
+            <author>Eleanor, Lady, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81675</idno>
+            <idno type="STC">Wing D2010</idno>
+            <idno type="STC">ESTC R231429</idno>
+            <idno type="EEBO-CITATION">99897299</idno>
+            <idno type="PROQUEST">99897299</idno>
+            <idno type="VID">137028</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81675)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137028)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2481:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Samsons fall, presented to the house 1642</title>
+                  <author>Eleanor, Lady, d. 1652.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Eleanor.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:137028:1"/>
+            <pb facs="tcp:137028:1" rendition="simple:additions"/>
+            <p>SAMSONS FALL, Preſented to the HOUSE 1642.</p>
+            <q>
+               <bibl>Kings 13.</bibl> 
+               <p>And he gave a Sign at the ſame time, ſaying, This is the ſign, That the Lord hath ſpoken.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed in the Year 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:137028:2"/>
+            <pb n="3" facs="tcp:137028:2"/>
+            <head>Samſons Fall Unfolded To the Houſe, from the Lady <hi>Eleanor.</hi>
+            </head>
+            <head type="sub">Book of <hi>Judges</hi> 16.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">S</seg>AMSON</hi> become <hi>as another Man,</hi> though of his unknown <hi>Might</hi> and great ſtrength ſtript, in a mo<g ref="char:EOLhyphen"/>ment diſpoſſeſt, who wonders or commiſerates, unhappily cameby in<g ref="char:EOLhyphen"/>truſting others, dangerous ſecurity; otherwiſe as what <hi>fetters of Braſs</hi> had been of force him to binde? none whatſoever: So what occupation too baſe for him, ſometime though the worlds no little wonder, crowned with favors not a few, violated his
+<pb n="4" facs="tcp:137028:3"/>
+               <hi>Vow</hi> or ſolemn Obligation: The Almighties Counſel diſcloſed to his Adverſary, overcome by <hi>a Womans importunity,</hi> her inchanting notes, whereby laid in a Trance; by whom forgotten or obſerved not, how re<g ref="char:EOLhyphen"/>ſerved the <hi>Angel</hi> would not diſcloſe his <hi>Name</hi> ſo much, <hi>whoſe Birth fore<g ref="char:EOLhyphen"/>told of,</hi> no more then notice took of his Mothers charge, <hi>ſhe wine none to touch,</hi> diſcoverer of ſecrets, beſides abuſed afore through <hi>like Violence, by one of the ſame uncircumciſed Breed.</hi>
+            </p>
+            <p>Such a blinde thing Love, <hi>Told her all his heart,</hi> the whole matter; they brought into thraldom ſuch, that harbor it, (nothing that can contain) with a look of whoſe brow able to ſilence, were they whoſo<g ref="char:EOLhyphen"/>ever; at his feet all doing homage.</p>
+            <p>Behold how degraded, had both
+<pb n="5" facs="tcp:137028:3"/>
+               <hi>his eys thruſt out,</hi> his teeth gnaſhing or grinding, too made <hi>in the priſon houſe to grinde,</hi> a new dance ſhewed, to the Mils unaccuſtomed Muſick till ſwet his heart out, the reſtleſs ſtone his ex<g ref="char:EOLhyphen"/>erciſe; preſumes upon his loving her, or doting rather, <hi>as bray a Fool in a morter, &amp;c. Prov.</hi> not by any Reins or Bit reſtrained, ſent to ſchool to the Horſe, the laſt mite till ſpent of his vital Spirits; able to gueſs whoſe own counſel could keep ſo wel, what from a woman might expect, ſhe to be truſted whilſt a Sieve or Net retains water; beſides where <hi>WAITERS</hi> ſuch in her privy Chamber, no news either, how eaſie by ſuch fami<g ref="char:EOLhyphen"/>liars inticed: And what renewed for<g ref="char:EOLhyphen"/>ces <hi>Samſon</hi> ſtormed by, as aforeſhew<g ref="char:EOLhyphen"/>ed, his darling <hi>Dahlab</hi> preſt &amp; urged him daily, in danger of ſhortning his
+<pb n="6" facs="tcp:137028:4"/>
+days: Moreover told him, <hi>He loved her not;</hi> (named her <hi>His Love</hi> it ſeems) becauſe jeſted with her, the Lye takes at her hands.</p>
+            <p>VVhereby overmaſter'd, no more plays faſt and looſe with his Miſtris, <hi>The Philiſtines upon him</hi> in earneſt, took him away, no falſe alarm, feeble <hi>became as another man, wiſt not what he had done, undreamt of, puts on the Braſs ſhakel his Garter, aforetime had mockt them, become their game and pa<g ref="char:EOLhyphen"/>ſtime,</hi> brought himſelf to a fair paſs, come <hi>to be led by a Lad;</hi> after twenty years over them, lawleſs vow-makers to them made an open Example, till death pays his Ranſom, confined to the Dungeon-pit all his days.</p>
+            <p>And herewith haſtning away the patience of your Houſe, leſt over<g ref="char:EOLhyphen"/>charged; where the Moral to vulgar
+<pb n="7" facs="tcp:137028:4"/>
+apprehenſions viſible, a ſtory no ſtranger to blinde Ale-houſes, the bare walls not without it, of <hi>Samſon</hi> the priſoner, <hi>a Prince,</hi> ſometime <hi>a Savior or Defender,</hi> &amp;c. at his pre<g ref="char:EOLhyphen"/>ſence all making way; No feigned <hi>Atlas</hi> ſtrength, barr'd never ſo faſt, that <hi>laid on his ſhoulder the City Gates</hi> and appurtenance, as a birding piece vvent away with all: alſo <hi>new cords ſevenfold</hi> for failing, and <hi>green wythes</hi> as nothing pluckt aſunder; likewiſe whoſe Maiden locks, like Sun beams extending, povvther'd vvith Ange<g ref="char:EOLhyphen"/>lical odours, faſtned to a VVeavers<g ref="char:EOLhyphen"/>beam, inſtantly like a lace rent there<g ref="char:EOLhyphen"/>from; portraying forth not only our <hi>Britiſh</hi> Union, faſt knit and bound, ſoon diſſolved after; and <hi>Iriſh</hi> flou<g ref="char:EOLhyphen"/>riſhing plantation, that in a night all undone, as thoſe <hi>Brittle Cords and
+<pb n="8" facs="tcp:137028:5"/>
+wythes,</hi> &amp;c. <hi>By wilde Boars andra<g ref="char:EOLhyphen"/>vening wolves rooted out, overrun. But how befel him whoſe heavy fate him alſo foreſhewed in theſe barren times of ours, as</hi> Samſon <hi>his Birth, the Ang<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l when appeared to the Woman and Husband both</hi> (Cap. 13.) with the ſeventeenth Centuries Myſtery, as what Date bears, by the multiplied number of ſeven, <hi>(ver.</hi> 7.) <hi>ver.</hi> 13. needleſs to be inſiſted on, a lamb where may wade, any ſhallow capacity dive or con<g ref="char:EOLhyphen"/>ceive, <hi>Canaans</hi> road not balkt, pro<g ref="char:EOLhyphen"/>ceeding line by line thus, <hi>(ver.</hi> 19.) firſt how awakened, found his crown bare, deſpoiled of his treaſure by a deſperate Executioners unlucky Ra<g ref="char:EOLhyphen"/>zer, one ready at hand: <hi>Samſon</hi> (by underminers over-reached) himſelf diſarmed, the <hi>Spirit of the Lord depart<g ref="char:EOLhyphen"/>ed from him,</hi> ſo forſaken, that after
+<pb n="9" facs="tcp:137028:5"/>
+that preceding bout with her, by whoſe ungracious venomous hands woven that ſubtile web, taken of his locks <hi>Livery</hi> and <hi>Seizin.</hi>
+            </p>
+            <p>VVhen at once upon his effectual prayer, had their P A Y then, <hi>a<g ref="char:EOLhyphen"/>venged for his two eyes,</hi> of both diſin<g ref="char:EOLhyphen"/>herited together; deſcribed in that poſture, <hi>ſtretching forth both his hands took hold with all his Might, &amp;c.</hi> at a blow, <hi>by the houſe falling on thoſe Philiſtines, Lords three thouſand,</hi> ſo <hi>that at his Death, the dead exceed<g ref="char:EOLhyphen"/>ed,</hi> ver. <hi>or were more then had periſhed in his life, or ſuffered; Wives and Chil<g ref="char:EOLhyphen"/>dren partakers with them,</hi> afore bare all the ſway; at which <hi>Feſtival</hi> ſpecta<g ref="char:EOLhyphen"/>tors no few: other ſome on the Roof, ſuppoſing as at other times ſhould <hi>have made them ſport,</hi> the houſe <hi>ſup<g ref="char:EOLhyphen"/>ported on Pillars,</hi> at once ſwept away;
+<pb n="10" facs="tcp:137028:6"/>
+               <hi>whom his Brethren of his fathers houſe took up and buried:</hi> that of the Powder deſign matching it the neareſt, ſhew<g ref="char:EOLhyphen"/>ing what Truſt to be repoſed in <hi>Princes</hi> or <hi>Pillars</hi> either. And thus of <hi>Samſon</hi> neither ſpared, brought to his Tryal, found guilty, <hi>Great Bri<g ref="char:EOLhyphen"/>tains</hi> Lyon rent in pieces, ſhadowed out in <hi>Samſons</hi> exploits; ſo much for that, when Caſhiered thoſe Revel<g ref="char:EOLhyphen"/>lings, <hi>Dagons houſe</hi> demoliſhed; and for theſe where twice voted, <hi>And there was no King,</hi> &amp;c. <hi>every man did what was right in his own eyes,</hi> ver. evi<g ref="char:EOLhyphen"/>dent as this unqueſtionable, <hi>Whether ever before or ſince, in ſuch a ſpace of time, ſo many at once periſhed, as of late have done.</hi>
+            </p>
+            <p>VVhere theſe doings Recorded withal, till this Reformation the like deformity unknown, conjured up
+<pb n="11" facs="tcp:137028:6" rendition="simple:additions"/>
+again, as it were, <hi>(What lack ye?)</hi> though Sentenced down, whoſe owners under Condemnation, here robbed of their hair, in the likeneſs of <hi>unclean Spirits</hi> ſet on their Stalls; the Cap as ugly as ominous, ſaluted with this Neck-verſe, ver. 13. <hi>If thou weaveſt or plateſt ſeven locks of my head, &amp;c.</hi> Summoned to appear at the Sign of the <hi>Gallows,</hi> by <hi>Samſons</hi> breaking as it were the Halter.</p>
+            <p>So from him <hi>The Lord of Sabbath, holding in his Right hand the Sign of the ſeven ſtars,</hi> This <hi>Legacy</hi> toward your yong mens feaſtings (thus arm<g ref="char:EOLhyphen"/>ed at all points) thus turned into fire and ſword, not unuſeful for Sea and Land-ſervice, the Ropes, wythes, and fetters for Ship-tackling, Braſs pieces and Match, that <hi>Goliah</hi> ge<g ref="char:EOLhyphen"/>neration to withſtand, blinde Mo<g ref="char:EOLhyphen"/>narchy
+<pb n="12" facs="tcp:137028:7" rendition="simple:additions"/>
+and uncircumciſed Prieſt<g ref="char:EOLhyphen"/>hood, the vail not taken off their hearts.; finiſhed this of no com<g ref="char:EOLhyphen"/>mon conſequence (the whole worlds Map or Survey) whereby prefigu<g ref="char:EOLhyphen"/>red <hi>his coming at hand, the Son of the Moſt High, a greater then Samſon,</hi> firſt a Sign given to the ungrateful <hi>Jew,</hi> and then to the <hi>Gentile,</hi> a prototype of the <hi>Word of God;</hi> Alſo who as though riſen again or revived, after made their Muſick and Game, <hi>whoſe ſtrength again came to him,</hi> upon his ſolemn prayer (as that) <hi>Father, glo<g ref="char:EOLhyphen"/>rifie me,</hi> &amp;c. (Ioh. 17.) alſo when con<g ref="char:EOLhyphen"/>vinced 3000 in one day, <hi>Men and Brethren, what ſhall we do? prickt at the heart, &amp;c.</hi> with <hi>Adams</hi> fall inclu<g ref="char:EOLhyphen"/>ſive, hearkned to her proect <hi>Eves</hi> (Heb. <hi>Chavah)</hi> for which as <hi>the man caſt out:</hi> ſo for whoſe degenerate pro<g ref="char:EOLhyphen"/>geny utter darkneſs reſerved.</p>
+         </div>
+      </body>
+      <back>
+         <div type="dedication">
+            <pb n="13" facs="tcp:137028:7"/>
+            <head>To the moſt Honorable, The High Court of Parliament aſſembled.</head>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>AS theres a <hi>Time for every thing under the Sun,</hi> and if ever for being abrupt and brief in, it is <hi>NOW,</hi> when <hi>Time</hi> thus precious with your Lordſhips; So under the Sun ſince there is nothing but a ſu<g ref="char:EOLhyphen"/>pernatural courſe to be taken, touch<g ref="char:EOLhyphen"/>ing the <hi>Cure</hi> of ſuch unnatural con<g ref="char:EOLhyphen"/>ditioned <hi>Times:</hi> The Almighty his <hi>Word</hi> the onely <hi>Balm</hi> and <hi>Soveraign</hi> Remedy when ye have tryed all: If any therefore do amiſs and miſcarry <note place="margin">Sealed with the Lord <hi>Brooks</hi> blood, immediately after ſlain a<g ref="char:EOLhyphen"/>bout Candle<g ref="char:EOLhyphen"/>mas, 1642.</note> of you, blame your ſelves none but the <hi>Parliament:</hi> For I ſhall of no lit<g ref="char:EOLhyphen"/>tle <hi>Burthen</hi> diſcharge my ſelf here, who can but ſay and tell you: a re<g ref="char:EOLhyphen"/>ceipt
+<pb n="14" facs="tcp:137028:8"/>
+I have of ſuch rare operation and vertue given me, that within few days it ſhal bring him again to Him<g ref="char:EOLhyphen"/>ſelf, I mean the <hi>KING,</hi> after ab<g ref="char:EOLhyphen"/>ſent ſo long from his <hi>Parliament;</hi> whoſe Character if ye pleaſe to ob<g ref="char:EOLhyphen"/>ſerve, this is his:</p>
+            <p>
+               <hi>He that no Chains could binde him,</hi> Mark Evangeliſt the 5.) <hi>That had been often bound with fetters and Chains</hi> 
+               <note place="margin">Which beſide his unfaith<g ref="char:EOLhyphen"/>fulneſs, in<g ref="char:EOLhyphen"/>cludes his im<g ref="char:EOLhyphen"/>priſonment, and what en<g ref="char:EOLhyphen"/>ſues, as ap<g ref="char:EOLhyphen"/>pears, who beſought not tormented to be before his time, as though the time had been foretold him.</note> 
+               <hi>pluckt aſſunder by him, and the fetters broken in pieces; neither could by any man be tamed;</hi> as much to ſay, <hi>nei<g ref="char:EOLhyphen"/>ther</hi> Oath, <hi>nor</hi> word, <hi>or</hi> Promiſe <hi>a<g ref="char:EOLhyphen"/>vailing, or any Reaſon of force to per<g ref="char:EOLhyphen"/>ſwade with him,</hi> as the Holy Ghoſts ſpeaking plain; by that adjuring in <hi>Gods Name,</hi> and by asking his <hi>name</hi> too, <hi>ſaying,</hi> LEGION, <hi>for they
+<pb n="15" facs="tcp:137028:8"/>
+were many,</hi> who ſpake not with the leaſt: Nevertheleſs, his great words not more fierce then fearful of the <hi>Lords preſence;</hi> This man wounding himſelf thus, bidden, <hi>Go home to his</hi> 
+               <note place="margin">Who went to the Scots, as not marvelled at a little.</note> 
+               <hi>friends.</hi>
+            </p>
+            <p>And thus have made tender unto your Lordſhips of my ſervice, whe<g ref="char:EOLhyphen"/>ther or no ye accept thereof, for to bring his Majeſty to you, <hi>ſitting as afore time cloathed, &amp;c.</hi> and doing withal what ye ſhall ask or deſire.</p>
+            <p>As for the Cavaliers, what they ſhall do all of them, even crave a Paſs hereby to take Shipping for the <hi>Low-Countreys</hi> and <hi>Germany,</hi> to be gone away; the <hi>Boors</hi> will entertain them willingly: St. <hi>Matth.</hi> 8. gives notice of two, <hi>ſo exceeding fierce that none might paſs by that way;</hi> to wit,
+<pb n="16" facs="tcp:137028:9"/>
+that Dutch Duke and his Brother, <note place="margin">Though had ſix moneths liberty to ſtay yet upon pain of death were commanded to depart within ten days.</note> thoſe poſſeſſed Princes, to return al<g ref="char:EOLhyphen"/>ſo without delay Home again, be<g ref="char:EOLhyphen"/>yond Sea.</p>
+            <closer>
+               <dateline>
+                  <date>1642. The 3. of <hi>January.</hi>
+                     <note place="margin">In which fatal moneth of Ianuary, both the Archbi<g ref="char:EOLhyphen"/>ſhop and late King were executed afterward.</note>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>VVaiting on your <hi>Lordſhips Commands</hi> ELEANOR.</hi>
+               </signed>
+            </closer>
+            <trailer>
+               <hi>The Holy Ghoſts</hi> New-Years-Gift.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
